@@ -1,12 +1,16 @@
 ## Hi there 👋
 
+I am currently working on becoming more proficient in Data Analysis and SQL. I am also playing with some C++ for a personal project, and plan to become - at the very least - familiar with things like JavaScript, Python, and Rust.
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66993ae2ff02ffb66926b563?variant=dark&roadmaps=data-analyst%2Cdatastructures-and-algorithms%2Cpython%2Csql)](https://roadmap.sh)
+
 <!--
 **EnigmaUprising/EnigmaUprising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
